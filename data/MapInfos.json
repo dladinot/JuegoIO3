@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"Salida izq","order":4,"parentId":3,"scrollX":1129.7142857142856,"scrollY":636},
 {"id":2,"expanded":true,"name":"Hospital","order":1,"parentId":0,"scrollX":1186.8,"scrollY":1485},
-{"id":3,"expanded":true,"name":"Hospital- interior","order":2,"parentId":2,"scrollX":781.1999999999999,"scrollY":2924.4},
+{"id":3,"expanded":true,"name":"Hospital- interior","order":2,"parentId":2,"scrollX":778.8,"scrollY":2160.6},
 {"id":4,"expanded":true,"name":"4 Salidas","order":3,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":5,"expanded":true,"name":"Salida der","order":5,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"Salida sup","order":6,"parentId":3,"scrollX":832,"scrollY":640},
