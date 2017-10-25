@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Salida izq","order":4,"parentId":3,"scrollX":1129.7142857142856,"scrollY":636},
-{"id":2,"expanded":true,"name":"Hospital","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1305.3333333333333},
-{"id":3,"expanded":true,"name":"Hospital- interior","order":2,"parentId":2,"scrollX":1081.3333333333333,"scrollY":1901.3333333333333},
+{"id":2,"expanded":true,"name":"Hospital","order":1,"parentId":0,"scrollX":1081.2,"scrollY":1489.8},
+{"id":3,"expanded":true,"name":"Hospital- interior","order":2,"parentId":2,"scrollX":1081.2,"scrollY":1901.3999999999999},
 {"id":4,"expanded":true,"name":"4 Salidas","order":3,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
 {"id":5,"expanded":true,"name":"Salida der","order":5,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"Salida sup","order":6,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
@@ -16,7 +16,7 @@ null,
 {"id":14,"expanded":true,"name":"Sal sup izq inf","order":14,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":15,"expanded":true,"name":"Sal sup der inf","order":15,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":16,"expanded":true,"name":"Sal sup izq der","order":16,"parentId":3,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":17,"expanded":false,"name":"intro","order":19,"parentId":0,"scrollX":1092,"scrollY":614.6666666666666},
+{"id":17,"expanded":false,"name":"intro","order":19,"parentId":0,"scrollX":788.4,"scrollY":439.79999999999995},
 {"id":18,"expanded":true,"name":"Hospital Segunda planta","order":17,"parentId":2,"scrollX":1081.3333333333333,"scrollY":1846.6666666666667},
-{"id":19,"expanded":false,"name":"SalaJefeFinal","order":18,"parentId":2,"scrollX":1081.3333333333333,"scrollY":878.6666666666666}
+{"id":19,"expanded":false,"name":"SalaJefeFinal","order":18,"parentId":2,"scrollX":1062,"scrollY":859.8}
 ]
