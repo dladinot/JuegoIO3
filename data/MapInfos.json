@@ -19,6 +19,6 @@ null,
 {"id":17,"expanded":true,"name":"intro","order":19,"parentId":0,"scrollX":672,"scrollY":406.6666666666667},
 {"id":18,"expanded":true,"name":"Hospital Segunda planta","order":17,"parentId":2,"scrollX":1070.6666666666667,"scrollY":1853.3333333333333},
 {"id":19,"expanded":false,"name":"SalaJefeFinal","order":18,"parentId":2,"scrollX":1056,"scrollY":654.6666666666666},
-{"id":20,"expanded":false,"name":"SalaJefeFinalEnding","order":20,"parentId":0,"scrollX":1056,"scrollY":624},
+{"id":20,"expanded":false,"name":"SalaJefeFinalEnding","order":20,"parentId":0,"scrollX":1040,"scrollY":656},
 {"id":21,"expanded":false,"name":"Creditos","order":21,"parentId":0,"scrollX":672,"scrollY":406.6666666666667}
 ]
